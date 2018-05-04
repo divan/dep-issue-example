@@ -1,4 +1,4 @@
-package depexample
+package sum
 
 import "fmt"
 
